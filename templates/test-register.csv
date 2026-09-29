@@ -1,0 +1,3 @@
+test_id,story_id,criterion_id,title,type,priority,environment,role,automation,last_run_date,last_run_build,last_verdict,defect_id,owner,notes
+TC-001-1,US-001,AC-001-1,Example: submit valid form as editor,functional,high,acc,editor,scripted,2026-01-01,1.2.0,Pass,,,
+TC-001-2,US-001,AC-001-2,Example: submit form with empty mandatory field,negative,high,acc,editor,none,2026-01-01,1.2.0,Fail,DEF-014,,message text differs from AC
